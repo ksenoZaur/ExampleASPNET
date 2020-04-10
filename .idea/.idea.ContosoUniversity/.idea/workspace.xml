@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07168108-531e-4188-be63-d19ea33206ce" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Global.asax.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Models/LoginUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Models/RegisterUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/13DB822D-E6C4-49C2-A425-BD1B471FFCED/9a/a352a545/DropCreateDatabaseAlways`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/13DB822D-E6C4-49C2-A425-BD1B471FFCED/68/4c5f0a43/Database.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Views/Courses/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Controllers/CoursesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Views/Student/Edit.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Views/Student/Create.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Models/Student.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Models/Enrollment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Models/Course.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/DAL/SchcoolContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Views/Student/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/DAL/SchoolInitializer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Controllers/StudentController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Views/Student/Delete.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/App_Start/FilterConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/App_Start/RouteConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/App_Start/BundleConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Support/IAuthentication.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Views/Student/Details.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Global.asax" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Web.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Views/Register/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Controllers/RegisterController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/App_Start/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Auth/ApplicationUserManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Auth/ApplicationContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/13DB822D-E6C4-49C2-A425-BD1B471FFCED/ef/795751b9/InternalContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Auth/ApplicationUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContosoUniversity/Views/Register/Login.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ContosoUniversity/Models/Course.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Models/Enrollment.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/DAL/SchcoolContext.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Controllers/Student.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Global.asax.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/DAL/SchoolInitializer.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Views/Student/Details.cshtml" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Views/Student/Delete.cshtml" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Controllers/Courses.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Controllers/CoursesController.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Views/Courses/Index.cshtml" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Views/Student/Index.cshtml" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Models/Student.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Views/Student/Create.cshtml" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Views/Student/Edit.cshtml" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Support/IAuthentication.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Auth/CustomUserStore.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Auth/CustomUserManager.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/App_Start/IdentityConfig.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Auth/ApplicationUser.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Auth/ApplicationContext.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Auth/ApplicationUserManager.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Web.config" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Controllers/Register.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Models/RegisterUser.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Models/LoginUser.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Views/Register/Login.cshtml" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/App_Start/Startup.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Controllers/StudentController.cs" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Views/Register/Index.cshtml" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/ContosoUniversity/Controllers/RegisterController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZwbThOcbfcijmkIOu3O8E5LFpU" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="C:/Program Files (x86)/IIS Express/iisexpress.exe" />
+      <option name="PROGRAM_PARAMETERS" value="/config:$PROJECT_DIR$/.idea/config/applicationhost.config /site:ContosoUniversity /apppool:Clr4IntegratedAppPool" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/IIS Express" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ContosoUniversity/ContosoUniversity.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Web" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5.1" />
+      <browser url="http://localhost:5000/" start="true" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07168108-531e-4188-be63-d19ea33206ce" name="Default Changelist" comment="" />
+      <created>1585753114539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585753114539</updated>
+      <workItem from="1585753118472" duration="1587000" />
+      <workItem from="1585754802435" duration="1771000" />
+      <workItem from="1585756679582" duration="1698000" />
+      <workItem from="1585840323058" duration="1770000" />
+      <workItem from="1585842224468" duration="1818000" />
+      <workItem from="1585898648672" duration="1504000" />
+      <workItem from="1585900324125" duration="1634000" />
+      <workItem from="1585902291847" duration="1687000" />
+      <workItem from="1585910838370" duration="1726000" />
+      <workItem from="1585915815838" duration="1757000" />
+      <workItem from="1585917763738" duration="2143000" />
+      <workItem from="1585921873142" duration="1676000" />
+      <workItem from="1585924064034" duration="1802000" />
+      <workItem from="1585926079341" duration="1339000" />
+      <workItem from="1585990802997" duration="1763000" />
+      <workItem from="1585993062885" duration="1703000" />
+      <workItem from="1585994814405" duration="818000" />
+      <workItem from="1586002462277" duration="1474000" />
+      <workItem from="1586004091124" duration="1769000" />
+      <workItem from="1586005934287" duration="1763000" />
+      <workItem from="1586007824078" duration="316000" />
+      <workItem from="1586013440994" duration="1759000" />
+      <workItem from="1586015396859" duration="1757000" />
+      <workItem from="1586017526243" duration="1714000" />
+      <workItem from="1586079598391" duration="704000" />
+      <workItem from="1586081484582" duration="1785000" />
+      <workItem from="1586083405299" duration="1420000" />
+      <workItem from="1586355331061" duration="1761000" />
+      <workItem from="1586357178476" duration="1758000" />
+      <workItem from="1586359148114" duration="1764000" />
+      <workItem from="1586361232772" duration="1290000" />
+      <workItem from="1586363553803" duration="1774000" />
+      <workItem from="1586365394479" duration="1774000" />
+      <workItem from="1586367272730" duration="2117000" />
+      <workItem from="1586439337422" duration="1745000" />
+      <workItem from="1586441447228" duration="1814000" />
+      <workItem from="1586447362322" duration="1767000" />
+      <workItem from="1586493146947" duration="1810000" />
+      <workItem from="1586497822611" duration="640000" />
+      <workItem from="1586526366794" duration="1748000" />
+      <workItem from="1586528466938" duration="1451000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ContosoUniversity/Controllers/RegisterController.cs</url>
+          <line>84</line>
+          <properties documentPath="$PROJECT_DIR$/ContosoUniversity/Controllers/RegisterController.cs" initialLine="16">
+            <startOffsets>
+              <option value="2524" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2548" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ContosoUniversity/Controllers/RegisterController.cs</url>
+          <line>39</line>
+          <properties documentPath="$PROJECT_DIR$/ContosoUniversity/Controllers/RegisterController.cs" initialLine="39">
+            <startOffsets>
+              <option value="946" />
+            </startOffsets>
+            <endOffsets>
+              <option value="978" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ContosoUniversity/Controllers/RegisterController.cs</url>
+          <line>73</line>
+          <properties documentPath="$PROJECT_DIR$/ContosoUniversity/Controllers/RegisterController.cs" initialLine="74">
+            <startOffsets>
+              <option value="2248" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2248" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+﻿@model PagedList.IPagedList<ContosoUniversity.Models.Course>
+@using PagedList.Mvc
+
+@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <h2>Courses</h2>
+
+    <table class="table">
+    @foreach (var c in Model)
+    {
+        <tr>
+            <td>
+            @c.Title.ToString()
+            </td>
+        </tr>        
+    }
+    </table>
+
+    Page @Model.PageNumber of @Model.PageCount
+    @Html.PagedListPager(@Model, page => Url.Action("Index", new {page}))

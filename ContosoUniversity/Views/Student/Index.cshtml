@@ -1,0 +1,60 @@
+﻿@using System.Web.UI.WebControls
+@using PagedList.Mvc
+@model PagedList.IPagedList<ContosoUniversity.Models.Student>
+
+@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Студенты</h2>
+
+    @using (@Html.BeginForm("Index"))
+    {
+        <p>
+            Поиск по имени: @Html.TextBox("searchWord")
+            <input type="submit" value="ПОИСК"/>
+        </p>
+    }
+
+<div class="row">
+    <table class="table table-striped table-hover">
+        <tr>
+            <th>
+                @Html.ActionLink("Фамилия","Index",new { sortOrder=ViewBag.NameOdrer, searchWord = ViewBag.SearchWord })
+            </th>
+            <th>
+                Имя Отчество
+            </th>
+            <th>
+                @Html.ActionLink("Дата регистрации", "Index", 
+                    new {sortOrder = ViewBag.DateOrder, searchWord = ViewBag.SearchWord})
+            </th>
+            <th>
+            </th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstMidName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EnrollmentDate)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new {id = item.ID}) |
+                    @Html.ActionLink("Details", "Details", new {id = item.ID}) |
+                    @Html.ActionLink("Delete", "Delete", new {id = item.ID})
+                </td>
+            </tr>
+        }
+    </table>
+    @Html.ActionLink("Создать запись", "Create", "Student", new {@class="btn btn-info"})
+    
+    @Html.PagedListPager(Model, page => Url.Action("Index", 
+        new { page, sortOrder = ViewBag.CurrentSort, searchWord = ViewBag.SearchWord}))
+</div>

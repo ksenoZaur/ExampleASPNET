@@ -1,0 +1,39 @@
+﻿@model ContosoUniversity.Models.Student
+
+@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit</h2>
+
+@using(Html.BeginForm("Edit","Student",FormMethod.Post))
+{
+<dl>
+    <dt>
+        @Html.DisplayNameFor(model => model.LastName)
+    </dt>
+    <dd>
+        @Html.EditorFor(model => model.LastName)
+    </dd>
+
+    <dt>
+        @Html.DisplayNameFor(model => model.FirstMidName)
+    </dt>
+    <dd>
+        @Html.EditorFor(model => model.FirstMidName)
+    </dd>
+
+    <dt>
+        @Html.DisplayNameFor(model=>model.EnrollmentDate)
+    </dt>
+
+    <dd>
+        @Html.EditorFor(model => model.EnrollmentDate)
+    </dd>
+    
+</dl>
+    <input type="submit" value="Change" class="btn btn-default"/>
+    @Html.ActionLink("Back", "Index","Student", new {@class="btn btn-default"})
+
+}
